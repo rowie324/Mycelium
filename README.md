@@ -1,6 +1,9 @@
 
 ![mycelium](https://github.com/user-attachments/assets/3d5d2123-a5f0-4cbe-9be8-57163f0e59ec)
 
+![Screenshot_20250419-065117](https://github.com/user-attachments/assets/2287698c-c21f-4d32-89b3-b75e2f774339)
+
+
 this layout comes after some pondering about including letters on the thumb keys, as well as the idea of including layers/additional functionality via holding down a letter. 
 
 initially, i became familiar with this idea through discussion of "home row mods". i loved the idea, however holding down a homerow key to get a modifier key is problematic whenever you need to hold down a letter for the purpose of gaming. after lots of tinkering in [oxey's playground](https://oxey.dev/playground/index.html), i came upon this layout.
