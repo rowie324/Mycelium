@@ -9,3 +9,5 @@ i'd seen some people include letters on the thumbs, however i hadn't seen both t
 
 
 happy typing! :3
+
+-edit: i realize i forgor to add a super key and a ~ key, will fix tomorrow ><
