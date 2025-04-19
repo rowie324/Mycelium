@@ -2,3 +2,9 @@
 ![mycelium](https://github.com/user-attachments/assets/3d5d2123-a5f0-4cbe-9be8-57163f0e59ec)
 
 this layout comes after some pondering about including letters on the thumb keys, as well as the idea of including layers/additional functionality via holding down a letter. 
+
+initially, i became familiar with this idea through discussion of "home row mods". i loved the idea, however holding down a homerow key to get a modifier key is problematic whenever you need to hold down a letter for the purpose of gaming. after lots of tinkering in [oxey's playground](https://oxey.dev/playground/index.html), i came upon this layout.
+
+i'd seen some people include letters on the thumbs, however i hadn't seen both thumbs utilized for letters. secondarily, a thing i was missing from existing layouts was some kind of symmetry. i wanted a layout that makes sense and is easy to picture in your head. ideally, i think its helpful if certain grammatical functions are placed in an order that makes sense to how we write (in english in this case), having commas, dashes and apostrophes on the left and periods, colons and question marks on the left reflects the rhythm of how sentences flow. 
+
+i tried to place certain common letter combinations in mirrored locations so that creating muscle memory comes more naturally. in another case i put alphabetically consecutive letters in similarly symmetrical locations.
