@@ -1,5 +1,4 @@
-
-![mycelium](https://github.com/user-attachments/assets/3d5d2123-a5f0-4cbe-9be8-57163f0e59ec)
+![mycelium](https://github.com/user-attachments/assets/aa4ca172-cfe3-4ad2-a193-dfaf54cbe8e5)
 
 ![Screenshot_20250419-065117](https://github.com/user-attachments/assets/2287698c-c21f-4d32-89b3-b75e2f774339)
 
@@ -12,5 +11,3 @@ i'd seen some people include letters on the thumbs, however i hadn't seen both t
 
 
 happy typing! :3
-
--edit: i realize i forgor to add a super key and a ~ key, will fix tomorrow ><
