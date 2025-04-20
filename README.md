@@ -1,3 +1,4 @@
+currently this layout is made obsolete by [*o*ats](https://github.com/rowie324/Oats)
 ![mycelium](https://github.com/user-attachments/assets/aa4ca172-cfe3-4ad2-a193-dfaf54cbe8e5)
 
 ![Screenshot_20250419-065117](https://github.com/user-attachments/assets/2287698c-c21f-4d32-89b3-b75e2f774339)
